@@ -2,6 +2,14 @@
 
 This project uses a Raspberry Pi, Google Home, and IFTTT, as well as handmade hardware, to automate the opening and closing of curtains/blinds as a smart home application.
 
+## Table of Contents
+
+* [Cloning the repository and running the software](#cloning_the_repository_and_running_the_software)
+* [IFTTT Integration](#IFTTT_Integration)
+* [Hardware Dependencies](#Hardware_Dependencies)
+* [Online Resources](#Online_Resources)
+* [Hardware Build](#Hardware_Build)
+
 ### Cloning the repository and running the software
 
 1. Ensure you have installed node.js on your device. It is available from https://nodejs.org/en/download/
