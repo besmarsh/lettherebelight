@@ -4,11 +4,11 @@ This project uses a Raspberry Pi, Google Home, and IFTTT, as well as handmade ha
 
 ## Table of Contents
 
-* [Cloning the repository and running the software](#cloning_the_repository_and_running_the_software)
-* [IFTTT Integration](#IFTTT_Integration)
-* [Hardware Dependencies](#Hardware_Dependencies)
-* [Online Resources](#Online_Resources)
-* [Hardware Build](#Hardware_Build)
+* [Cloning the repository and running the software](#cloning-the-repository-and-running-the-software)
+* [IFTTT Integration](#ifttt-integration)
+* [Hardware Dependencies](#hardware-dependencies)
+* [Online Resources](#online-resources)
+* [Hardware Build](#hardware-build)
 
 ### Cloning the repository and running the software
 
