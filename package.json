@@ -1,0 +1,35 @@
+{
+  "name": "lettherebelight",
+  "version": "1.0.0",
+  "description": "Smart home application to automate opening and closing curtains/blinds using RPi and Google Home",
+  "license": "ISC",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besmarsh/lettherebelight.git"
+  },
+  "keywords": [
+    "google",
+    "home",
+    "raspberry",
+    "pi",
+    "diy",
+    "node.js",
+    "python",
+    "smart",
+    "home",
+    "curtains"
+  ],
+  "author": "Ben Marsh",
+  "homepage": "https://github.com/besmarsh/lettherebelight#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "python-shell": "^0.4.0"
+  }
+}
