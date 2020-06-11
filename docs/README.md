@@ -105,18 +105,17 @@ The hardware is shown below, with jumper wires from the Raspberry Pi's GPIO pins
 
 Circuit Connections:
 
-* Pi 3.3V to L293D pin X ()
-* Pi GND to L293D pin X ()
+* Pi 3.3V to L293D pin 16 (Vss)
+* Pi Ground to Breaboard - power rail (Ground)
 
-* PI GPIO to L293D pin X ()
-* PI GPIO to L293D pin X ()
-* PI GPIO to L293D pin X ()
+* PI GPIO to L293D pin 2 (Input 1)
+* PI GPIO to L293D pin 7 (Input 2)
+* PI GPIO to L293D pin 1 (Enable 1)
 
 * Battery pack + wire to breadboard + power rail (Power)
 * Battery pack - wire to breadboard - power rail (Ground)
 
-* Breadboard + power rail (Power) to L293D pin X ()
-* Breadboard - power rail (Ground) to L293D pin X ()
-* L293D pins W, X, Y, Z to breadboard - power rail (Ground)
-* L293D pin X () to motor
-* L293D pin X () to motor
+* Breadboard + power rail (Power) to L293D pin 8 (Vs)
+* Breadboard - power rail (Ground) to L293D pins 4, 5, 12, 13 (GND)
+* L293D pin 3 (Output 1) to motor
+* L293D pin 6 (Output 2) to motor
