@@ -75,7 +75,7 @@ This project uses:
 * Node.js can be downloaded from `nodejs.org/en/download` and documentation can be found at `nodejs.org/en/docs`
 * IFTTT website at `IFTTT.com`
 * Raspberry Pi Zero GPIO Diagram:
-    <img alt="RPi GPIO Diagram" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Diagram.png?raw=true" height="400"/>
+<img alt="RPi GPIO Diagram" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Diagram.png?raw=true" height="400"/>
 
 ### Hardware Build
 
@@ -85,23 +85,23 @@ The hardware is shown below, with jumper wires from the Raspberry Pi's GPIO pins
 
 #### Circuit Overview
 
-    <img alt="Circuit Overview" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Circuit_Overview.jpg?raw=true" height="400"/>
+<img alt="Circuit Overview" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Circuit_Overview.jpg?raw=true" height="400"/>
 
 #### RPi GPIO Connections
 
-    <img alt="RPi GPIO Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Connections.jpg?raw=true" height="400"/>
+<img alt="RPi GPIO Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Connections.jpg?raw=true" height="400"/>
 
 #### Breadboard Circuit
 
-    <img alt="Breadboard Circuit" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Breadboard_Circuit.jpg?raw=true" height="400"/>
+<img alt="Breadboard Circuit" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Breadboard_Circuit.jpg?raw=true" height="400"/>
 
 #### Motor Connections
 
-    <img alt="Motor Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Motor_Connections.jpg?raw=true" height="400"/>
+<img alt="Motor Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Motor_Connections.jpg?raw=true" height="400"/>
 
 #### Handmade Motor Wheel
 
-    <img alt="Handmade Motor Wheel" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Handmade_Motor_Wheel.jpg?raw=true" height="400"/>
+<img alt="Handmade Motor Wheel" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Handmade_Motor_Wheel.jpg?raw=true" height="400"/>
 
 Circuit Connections:
 
