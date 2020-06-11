@@ -75,7 +75,7 @@ This project uses:
 * Node.js can be downloaded from `nodejs.org/en/download` and documentation can be found at `nodejs.org/en/docs`
 * IFTTT website at `IFTTT.com`
 * Raspberry Pi Zero GPIO Diagram:
-![RPi GPIO Diagram](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Diagram.png?raw=true)
+<img alt="RPi GPIO Diagram" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Diagram.png?raw=true" height="200"/>
 
 ### Hardware Build
 
@@ -83,11 +83,11 @@ This project depends on handmade hardware to perform the physical action of open
 
 The hardware is shown below, with jumper wires from the Raspberry Pi's GPIO pins to the L293D on the prototyping breadboard, and wires from the L293D to the motor.
 
-![Circuit Overview](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Circuit_Overview.jpg?raw=true)
-![RPi GPIO Connections](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Connections.jpg?raw=true)
-![Breadboard Circuit](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Breadboard_Circuit.jpg?raw=true)
-![Motor Connections](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Motor_Connections.jpg?raw=true)
-![Handmade Motor Wheel](https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Handmade_Motor_Wheel.jpg?raw=true)
+<img alt="Circuit Overview" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Circuit_Overview.jpg?raw=true" height="200"/>
+<img alt="RPi GPIO Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/RPi_GPIO_Connections.jpg?raw=true" height="200"/>
+<img alt="Breadboard Circuit" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Breadboard_Circuit.jpg?raw=true" height="200"/>
+<img alt="Motor Connections" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Motor_Connections.jpg?raw=true" height="200"/>
+<img alt="Handmade Motor Wheel" src="https://github.com/besmarsh/lettherebelight/blob/master/docs/img/Handmade_Motor_Wheel.jpg?raw=true" height="200"/>
 
 Circuit Connections:
 
