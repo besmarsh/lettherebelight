@@ -2,7 +2,7 @@
   "name": "lettherebelight",
   "version": "1.0.0",
   "description": "Smart home application to automate opening and closing curtains/blinds using RPi and Google Home",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
