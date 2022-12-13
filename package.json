@@ -27,7 +27,7 @@
   "homepage": "https://github.com/besmarsh/lettherebelight#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "python-shell": "^0.4.0"
